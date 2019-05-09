@@ -1,0 +1,51 @@
+body{
+	width: 80%;
+	margin: 55px 100px 50px;
+	background: url(../imagen/fonto.jpg);
+
+}
+.rounded{
+
+	border-radius: 300px; 
+	margin-left: 7%;
+	
+	
+}
+#p1{
+	background: #51d1f6;
+	margin-right: 5%;
+	border-radius: 5px; 
+	padding:15px;
+	box-shadow: 0px 0px 10px 5px pink;
+}
+.contenedor{
+	background: white;
+	padding: 5px 5px 50px;
+	box-shadow: 0px 0px 10px 5px pink;
+	margin-left: 35%;
+	border-radius: 5px;
+	background: orange; 
+}
+
+img{
+	border-radius: 90px;
+	
+}
+nav{
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 10px;
+	background: orange;
+}
+.panel2{
+	margin: 10px 10px 10px;
+}
+#letra{
+	font-family: Century Gothic;
+}
+h1{
+	font-family: AR DELANEY;
+}
+.letra2{
+	font-family:Bernard MT Condensed;
+}
